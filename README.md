@@ -15,7 +15,7 @@ python Search_DnaA_trios.py
 ```
 
 ## Input Files
-The input data for this project are bacterial replication origins sequences (DoriC_oric_sequences.csv) and DnaA-box motif (Species_specific_DnaA_Box_motif.csv and Epsilonproteobacteria_DnaA_Box_motif.csv) located in the folder Search_DnaA_trios.
+The input data for this project are bacterial replication origins sequences (DoriC_oric_sequences.csv) and DnaA-box motif (Species_specific_DnaA_Box_motif.csv and Epsilonproteobacteria_DnaA_Box_motif.csv) located in the folder Search_DnaA_trios. The data comes from the DoriC database.
 
 ## Output Files
 This project finally outputs a file named 'DnaA_trios.csv'.

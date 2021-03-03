@@ -6,7 +6,7 @@ This project is implemented Python 3.7.7.
 
 ## Usage
 ```sh
-git 
+git clone https://github.com/DongMeiJing/DnaA-trios/tree/main/Search_DnaA_trios
 cd ./Search_DnaA_trios
 pip install -r requirements.txt
 python Search_DnaA_trios.py

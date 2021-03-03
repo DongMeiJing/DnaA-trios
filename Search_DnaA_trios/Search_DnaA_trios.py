@@ -1,0 +1,15 @@
+import os
+
+os.system("python 1_search_standard_box_spacer_0_16_greedy.py")
+os.system("python 2_search_specific_box_spacer_0_16_greedy.py")
+os.system("python 3_search_Epsilonproteobacteria_box_spacer_0_16_greedy.py")
+os.system("python 4_concat_delete_repeat.py")
+os.system("python 5_box1_box2.py")
+os.system("python 6_search_upstream_box.py")
+os.system("python 7_adjust_box.py")
+os.system("python 8_calculate_spacer_len.py")
+os.system("python 9_adjust_box_mismatch.py")
+os.system("python 10_minmismatch_newspacer.py")
+os.system("python 11_score_trio.py")
+os.system("python 12_screen.py")
+os.system("python 14_connect_seq.py")

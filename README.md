@@ -4,11 +4,9 @@ DnaA-trio is an important element in bacterial replication origins. This project
 ## Implementation
 This project is implemented Python 3.7.7.
 
-## Download
-Download Search_DnaA_trios.
-
 ## Usage
 ```sh
+git 
 cd ./Search_DnaA_trios
 pip install -r requirements.txt
 python Search_DnaA_trios.py

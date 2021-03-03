@@ -13,4 +13,9 @@ cd ./Search_DnaA_trios
 pip install -r requirements.txt
 python Search_DnaA_trios.py
 ```
-## Output File
+
+## Input Files
+The input data for this project are bacterial replication origins sequences (DoriC_oric_sequences.csv) and DnaA-box motif (Species_specific_DnaA_Box_motif.csv and Epsilonproteobacteria_DnaA_Box_motif.csv) located in the folder Search_DnaA_trios.
+
+## Output Files
+This project finally outputs a file named 'DnaA_trios.csv'.

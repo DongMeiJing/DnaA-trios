@@ -13,4 +13,4 @@ cd ./Search_DnaA_trios
 pip install -r requirements.txt
 python Search_DnaA_trios.py
 ```
-## 
+## Output File
